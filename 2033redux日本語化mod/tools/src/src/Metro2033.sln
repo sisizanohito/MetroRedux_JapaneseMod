@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lngunpack", "lngunpack\lngunpack.csproj", "{2362E310-DF51-412A-9428-1DE64786792F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lngpack", "lngpack\lngpack.csproj", "{DE9AF85A-03DE-4E9A-9BC9-E961A6771970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scriptsplitter", "scriptsplitter\scriptsplitter.csproj", "{21A4BD45-E2D6-4DDE-B1D7-2047FF8D29BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scriptconcat", "scriptconcat\scriptconcat.csproj", "{8734CD93-F2D1-40DE-95DE-00F238C3E120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "symunpack", "symunpack\symunpack.csproj", "{F548776C-7CC2-4891-A227-F470EBD3E8E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sympack", "sympack\sympack.csproj", "{4FC789D8-5299-45C5-B37F-A09B1D89238E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "makefont", "makefont\makefont.csproj", "{61A890B0-7451-4BF3-9C6E-A4591FFD5C16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2362E310-DF51-412A-9428-1DE64786792F}.Debug|x86.ActiveCfg = Debug|x86
+		{2362E310-DF51-412A-9428-1DE64786792F}.Debug|x86.Build.0 = Debug|x86
+		{2362E310-DF51-412A-9428-1DE64786792F}.Release|x86.ActiveCfg = Release|x86
+		{2362E310-DF51-412A-9428-1DE64786792F}.Release|x86.Build.0 = Release|x86
+		{DE9AF85A-03DE-4E9A-9BC9-E961A6771970}.Debug|x86.ActiveCfg = Debug|x86
+		{DE9AF85A-03DE-4E9A-9BC9-E961A6771970}.Debug|x86.Build.0 = Debug|x86
+		{DE9AF85A-03DE-4E9A-9BC9-E961A6771970}.Release|x86.ActiveCfg = Release|x86
+		{DE9AF85A-03DE-4E9A-9BC9-E961A6771970}.Release|x86.Build.0 = Release|x86
+		{21A4BD45-E2D6-4DDE-B1D7-2047FF8D29BD}.Debug|x86.ActiveCfg = Debug|x86
+		{21A4BD45-E2D6-4DDE-B1D7-2047FF8D29BD}.Debug|x86.Build.0 = Debug|x86
+		{21A4BD45-E2D6-4DDE-B1D7-2047FF8D29BD}.Release|x86.ActiveCfg = Release|x86
+		{21A4BD45-E2D6-4DDE-B1D7-2047FF8D29BD}.Release|x86.Build.0 = Release|x86
+		{8734CD93-F2D1-40DE-95DE-00F238C3E120}.Debug|x86.ActiveCfg = Debug|x86
+		{8734CD93-F2D1-40DE-95DE-00F238C3E120}.Debug|x86.Build.0 = Debug|x86
+		{8734CD93-F2D1-40DE-95DE-00F238C3E120}.Release|x86.ActiveCfg = Release|x86
+		{8734CD93-F2D1-40DE-95DE-00F238C3E120}.Release|x86.Build.0 = Release|x86
+		{F548776C-7CC2-4891-A227-F470EBD3E8E9}.Debug|x86.ActiveCfg = Debug|x86
+		{F548776C-7CC2-4891-A227-F470EBD3E8E9}.Debug|x86.Build.0 = Debug|x86
+		{F548776C-7CC2-4891-A227-F470EBD3E8E9}.Release|x86.ActiveCfg = Release|x86
+		{F548776C-7CC2-4891-A227-F470EBD3E8E9}.Release|x86.Build.0 = Release|x86
+		{4FC789D8-5299-45C5-B37F-A09B1D89238E}.Debug|x86.ActiveCfg = Debug|x86
+		{4FC789D8-5299-45C5-B37F-A09B1D89238E}.Debug|x86.Build.0 = Debug|x86
+		{4FC789D8-5299-45C5-B37F-A09B1D89238E}.Release|x86.ActiveCfg = Release|x86
+		{4FC789D8-5299-45C5-B37F-A09B1D89238E}.Release|x86.Build.0 = Release|x86
+		{61A890B0-7451-4BF3-9C6E-A4591FFD5C16}.Debug|x86.ActiveCfg = Debug|x86
+		{61A890B0-7451-4BF3-9C6E-A4591FFD5C16}.Debug|x86.Build.0 = Debug|x86
+		{61A890B0-7451-4BF3-9C6E-A4591FFD5C16}.Release|x86.ActiveCfg = Release|x86
+		{61A890B0-7451-4BF3-9C6E-A4591FFD5C16}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

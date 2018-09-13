@@ -1,0 +1,17 @@
+C:\Users\isiis\source\repos\xlsx-text\xlsx-text\bin\Release\xlsx-text.exe.config
+C:\Users\isiis\source\repos\xlsx-text\xlsx-text\bin\Release\xlsx-text.exe
+C:\Users\isiis\source\repos\xlsx-text\xlsx-text\bin\Release\xlsx-text.pdb
+C:\Users\isiis\source\repos\xlsx-text\xlsx-text\bin\Release\ClosedXML.dll
+C:\Users\isiis\source\repos\xlsx-text\xlsx-text\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\isiis\source\repos\xlsx-text\xlsx-text\bin\Release\ExcelNumberFormat.dll
+C:\Users\isiis\source\repos\xlsx-text\xlsx-text\bin\Release\FastMember.Signed.dll
+C:\Users\isiis\source\repos\xlsx-text\xlsx-text\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\isiis\source\repos\xlsx-text\xlsx-text\bin\Release\System.IO.Packaging.dll
+C:\Users\isiis\source\repos\xlsx-text\xlsx-text\bin\Release\ClosedXML.pdb
+C:\Users\isiis\source\repos\xlsx-text\xlsx-text\bin\Release\ClosedXML.xml
+C:\Users\isiis\source\repos\xlsx-text\xlsx-text\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\isiis\source\repos\xlsx-text\xlsx-text\bin\Release\ExcelNumberFormat.xml
+C:\Users\isiis\source\repos\xlsx-text\xlsx-text\obj\Release\xlsx-text.csproj.CoreCompileInputs.cache
+C:\Users\isiis\source\repos\xlsx-text\xlsx-text\obj\Release\xlsx-text.csproj.CopyComplete
+C:\Users\isiis\source\repos\xlsx-text\xlsx-text\obj\Release\xlsx-text.exe
+C:\Users\isiis\source\repos\xlsx-text\xlsx-text\obj\Release\xlsx-text.pdb

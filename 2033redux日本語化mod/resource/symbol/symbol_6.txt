@@ -1,0 +1,1552 @@
+		</item>
+		<item idx="7" h1="0x00000000" h2="0x00000010" h3="0x00000011"
+		      pitch_x="0.001953125" pitch_y="0.001953125"
+		      h7="64">
+			<data idx="0" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="1" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="2" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="3" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="4" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="5" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="6" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="7" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="8" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="9" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="10" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="11" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="12" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="13" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="14" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="15" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="16" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="17" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="18" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="19" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="20" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="21" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="22" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="23" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="24" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="25" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="26" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="27" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="28" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="29" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="30" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="31" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="32" x="469" y="178" width="2" height="2"
+			      xoffset="0" yoffset="52" xadvance="14" />
+			<data idx="33" x="388" y="441" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="34" x="366" y="441" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="35" x="-1" y="-1" width="126" height="65"
+			      xoffset="5" yoffset="0" xadvance="133" />
+			<data idx="36" x="129" y="-1" width="126" height="65"
+			      xoffset="5" yoffset="0" xadvance="138" />
+			<data idx="37" x="344" y="441" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="38" x="-1" y="132" width="100" height="55"
+			      xoffset="2" yoffset="5" xadvance="104" />
+			<data idx="39" x="322" y="448" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="40" x="269" y="245" width="16" height="50"
+			      xoffset="2" yoffset="11" xadvance="17" />
+			<data idx="41" x="289" y="245" width="16" height="50"
+			      xoffset="0" yoffset="11" xadvance="17" />
+			<data idx="42" x="300" y="448" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="43" x="477" y="242" width="28" height="27"
+			      xoffset="2" yoffset="19" xadvance="31" />
+			<data idx="44" x="493" y="178" width="12" height="18"
+			      xoffset="1" yoffset="43" xadvance="14" />
+			<data idx="45" x="115" y="191" width="52" height="55"
+			      xoffset="3" yoffset="5" xadvance="58" />
+			<data idx="46" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="47" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="48" x="467" y="294" width="40" height="40"
+			      xoffset="4" yoffset="13" xadvance="47" />
+			<data idx="49" x="155" y="359" width="42" height="46"
+			      xoffset="2" yoffset="8" xadvance="47" />
+			<data idx="50" x="258" y="454" width="38" height="37"
+			      xoffset="4" yoffset="16" xadvance="43" />
+			<data idx="51" x="49" y="411" width="46" height="42"
+			      xoffset="2" yoffset="12" xadvance="50" />
+			<data idx="52" x="134" y="456" width="37" height="39"
+			      xoffset="2" yoffset="15" xadvance="43" />
+			<data idx="53" x="201" y="359" width="42" height="46"
+			      xoffset="4" yoffset="8" xadvance="47" />
+			<data idx="54" x="175" y="454" width="38" height="38"
+			      xoffset="2" yoffset="16" xadvance="43" />
+			<data idx="55" x="-1" y="411" width="46" height="43"
+			      xoffset="2" yoffset="11" xadvance="50" />
+			<data idx="56" x="217" y="454" width="37" height="38"
+			      xoffset="4" yoffset="16" xadvance="43" />
+			<data idx="57" x="236" y="128" width="55" height="55"
+			      xoffset="2" yoffset="5" xadvance="57" />
+			<data idx="58" x="103" y="132" width="64" height="55"
+			      xoffset="2" yoffset="5" xadvance="68" />
+			<data idx="59" x="440" y="63" width="64" height="55"
+			      xoffset="2" yoffset="5" xadvance="68" />
+			<data idx="60" x="259" y="-1" width="54" height="63"
+			      xoffset="7" yoffset="1" xadvance="68" />
+			<data idx="61" x="481" y="-1" width="25" height="55"
+			      xoffset="2" yoffset="5" xadvance="28" />
+			<data idx="62" x="317" y="-1" width="54" height="63"
+			      xoffset="7" yoffset="1" xadvance="68" />
+			<data idx="63" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="64" x="432" y="441" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="65" x="411" y="126" width="54" height="55"
+			      xoffset="2" yoffset="5" xadvance="58" />
+			<data idx="66" x="353" y="126" width="54" height="55"
+			      xoffset="2" yoffset="5" xadvance="58" />
+			<data idx="67" x="44" y="458" width="41" height="41"
+			      xoffset="2" yoffset="12" xadvance="45" />
+			<data idx="68" x="448" y="185" width="41" height="53"
+			      xoffset="2" yoffset="0" xadvance="45" />
+			<data idx="69" x="425" y="242" width="48" height="48"
+			      xoffset="2" yoffset="5" xadvance="52" />
+			<data idx="70" x="156" y="409" width="53" height="41"
+			      xoffset="2" yoffset="12" xadvance="57" />
+			<data idx="71" x="51" y="307" width="48" height="48"
+			      xoffset="2" yoffset="12" xadvance="52" />
+			<data idx="72" x="-1" y="250" width="41" height="53"
+			      xoffset="2" yoffset="12" xadvance="45" />
+			<data idx="73" x="103" y="307" width="48" height="48"
+			      xoffset="2" yoffset="12" xadvance="52" />
+			<data idx="74" x="99" y="411" width="53" height="41"
+			      xoffset="2" yoffset="12" xadvance="57" />
+			<data idx="75" x="155" y="307" width="48" height="48"
+			      xoffset="2" yoffset="5" xadvance="52" />
+			<data idx="76" x="89" y="457" width="41" height="41"
+			      xoffset="2" yoffset="12" xadvance="45" />
+			<data idx="77" x="89" y="250" width="41" height="53"
+			      xoffset="2" yoffset="0" xadvance="45" />
+			<data idx="78" x="259" y="304" width="48" height="48"
+			      xoffset="2" yoffset="5" xadvance="52" />
+			<data idx="79" x="384" y="396" width="53" height="41"
+			      xoffset="2" yoffset="12" xadvance="57" />
+			<data idx="80" x="207" y="304" width="48" height="48"
+			      xoffset="2" yoffset="12" xadvance="52" />
+			<data idx="81" x="44" y="250" width="41" height="53"
+			      xoffset="2" yoffset="12" xadvance="45" />
+			<data idx="82" x="-1" y="307" width="48" height="48"
+			      xoffset="2" yoffset="12" xadvance="52" />
+			<data idx="83" x="270" y="403" width="53" height="41"
+			      xoffset="2" yoffset="12" xadvance="57" />
+			<data idx="84" x="373" y="245" width="48" height="48"
+			      xoffset="2" yoffset="5" xadvance="52" />
+			<data idx="85" x="410" y="441" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="86" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="87" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="88" x="-1" y="191" width="54" height="55"
+			      xoffset="2" yoffset="5" xadvance="58" />
+			<data idx="89" x="57" y="191" width="54" height="55"
+			      xoffset="2" yoffset="5" xadvance="58" />
+			<data idx="90" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="91" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="92" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="93" x="375" y="-1" width="49" height="60"
+			      xoffset="2" yoffset="5" xadvance="54" />
+			<data idx="94" x="52" y="68" width="49" height="60"
+			      xoffset="4" yoffset="5" xadvance="54" />
+			<data idx="95" x="247" y="356" width="61" height="43"
+			      xoffset="2" yoffset="11" xadvance="65" />
+			<data idx="96" x="442" y="349" width="61" height="43"
+			      xoffset="3" yoffset="11" xadvance="65" />
+			<data idx="97" x="469" y="122" width="35" height="52"
+			      xoffset="2" yoffset="6" xadvance="41" />
+			<data idx="98" x="309" y="245" width="60" height="48"
+			      xoffset="2" yoffset="7" xadvance="64" />
+			<data idx="99" x="162" y="68" width="61" height="58"
+			      xoffset="2" yoffset="7" xadvance="65" />
+			<data idx="100" x="384" y="185" width="60" height="53"
+			      xoffset="2" yoffset="7" xadvance="64" />
+			<data idx="101" x="171" y="130" width="61" height="55"
+			      xoffset="2" yoffset="7" xadvance="65" />
+			<data idx="102" x="105" y="68" width="53" height="59"
+			      xoffset="2" yoffset="6" xadvance="57" />
+			<data idx="103" x="295" y="128" width="54" height="55"
+			      xoffset="2" yoffset="5" xadvance="58" />
+			<data idx="104" x="298" y="66" width="67" height="56"
+			      xoffset="2" yoffset="6" xadvance="71" />
+			<data idx="105" x="171" y="189" width="67" height="54"
+			      xoffset="2" yoffset="8" xadvance="71" />
+			<data idx="106" x="227" y="68" width="67" height="56"
+			      xoffset="2" yoffset="6" xadvance="71" />
+			<data idx="107" x="242" y="187" width="67" height="54"
+			      xoffset="2" yoffset="8" xadvance="71" />
+			<data idx="108" x="-1" y="458" width="41" height="41"
+			      xoffset="9" yoffset="12" xadvance="58" />
+			<data idx="109" x="134" y="250" width="41" height="53"
+			      xoffset="9" yoffset="0" xadvance="58" />
+			<data idx="110" x="311" y="297" width="48" height="48"
+			      xoffset="9" yoffset="5" xadvance="58" />
+			<data idx="111" x="213" y="409" width="53" height="41"
+			      xoffset="9" yoffset="12" xadvance="58" />
+			<data idx="112" x="363" y="297" width="48" height="48"
+			      xoffset="9" yoffset="12" xadvance="58" />
+			<data idx="113" x="179" y="247" width="41" height="53"
+			      xoffset="9" yoffset="12" xadvance="58" />
+			<data idx="114" x="415" y="297" width="48" height="48"
+			      xoffset="2" yoffset="12" xadvance="58" />
+			<data idx="115" x="327" y="396" width="53" height="41"
+			      xoffset="-3" yoffset="12" xadvance="58" />
+			<data idx="116" x="-1" y="359" width="48" height="48"
+			      xoffset="2" yoffset="5" xadvance="58" />
+			<data idx="117" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="118" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="119" x="-1" y="68" width="49" height="60"
+			      xoffset="2" yoffset="5" xadvance="54" />
+			<data idx="120" x="428" y="-1" width="49" height="60"
+			      xoffset="4" yoffset="5" xadvance="54" />
+			<data idx="121" x="312" y="349" width="61" height="43"
+			      xoffset="2" yoffset="11" xadvance="65" />
+			<data idx="122" x="377" y="349" width="61" height="43"
+			      xoffset="3" yoffset="11" xadvance="65" />
+			<data idx="123" x="369" y="66" width="67" height="56"
+			      xoffset="2" yoffset="6" xadvance="71" />
+			<data idx="124" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="125" x="313" y="187" width="67" height="54"
+			      xoffset="2" yoffset="8" xadvance="71" />
+			<data idx="126" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="127" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="128" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="129" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="130" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="131" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="132" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="133" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="134" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="135" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="136" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="137" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="138" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="139" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="140" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="141" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="142" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="143" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="144" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="145" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="146" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="147" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="148" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="149" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="150" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="151" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="152" x="454" y="441" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="153" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="154" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="155" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="156" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="157" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="158" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="159" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="160" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="161" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="162" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="163" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="164" x="224" y="247" width="41" height="53"
+			      xoffset="2" yoffset="0" xadvance="45" />
+			<data idx="165" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="166" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="167" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="168" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="169" x="441" y="396" width="53" height="41"
+			      xoffset="2" yoffset="12" xadvance="57" />
+			<data idx="170" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="171" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="172" x="51" y="359" width="48" height="48"
+			      xoffset="2" yoffset="5" xadvance="52" />
+			<data idx="173" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="174" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="175" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="176" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="177" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="178" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="179" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="180" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="181" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="182" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="183" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="184" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="185" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="186" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="187" x="103" y="359" width="48" height="48"
+			      xoffset="2" yoffset="12" xadvance="52" />
+			<data idx="188" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="189" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="190" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="191" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="192" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="193" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="194" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="195" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="196" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="197" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="198" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="199" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="200" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="201" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="202" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="203" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="204" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="205" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="206" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="207" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="208" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="209" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="210" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="211" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="212" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="213" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="214" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="215" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="216" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="217" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="218" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="219" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="220" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="221" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="222" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="223" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="224" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="225" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="226" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="227" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="228" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="229" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="230" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="231" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="232" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="233" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="234" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="235" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="236" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="237" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="238" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="239" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="240" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="241" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="242" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="243" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="244" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="245" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="246" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="247" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="248" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="249" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="250" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="251" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="252" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="253" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="254" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="255" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+		</item>
+		<item idx="8" h1="0x00000000" h2="0x00000012" h3="0x00000013"
+		      pitch_x="0.001953125" pitch_y="0.001953125"
+		      h7="64">
+			<data idx="0" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="1" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="2" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="3" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="4" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="5" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="6" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="7" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="8" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="9" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="10" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="11" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="12" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="13" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="14" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="15" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="16" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="17" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="18" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="19" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="20" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="21" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="22" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="23" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="24" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="25" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="26" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="27" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="28" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="29" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="30" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="31" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="32" x="469" y="178" width="2" height="2"
+			      xoffset="0" yoffset="52" xadvance="14" />
+			<data idx="33" x="388" y="441" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="34" x="366" y="441" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="35" x="-1" y="-1" width="126" height="65"
+			      xoffset="5" yoffset="0" xadvance="133" />
+			<data idx="36" x="129" y="-1" width="126" height="65"
+			      xoffset="5" yoffset="0" xadvance="138" />
+			<data idx="37" x="344" y="441" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="38" x="-1" y="132" width="100" height="55"
+			      xoffset="2" yoffset="5" xadvance="104" />
+			<data idx="39" x="322" y="448" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="40" x="269" y="245" width="16" height="50"
+			      xoffset="2" yoffset="11" xadvance="17" />
+			<data idx="41" x="289" y="245" width="16" height="50"
+			      xoffset="0" yoffset="11" xadvance="17" />
+			<data idx="42" x="300" y="448" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="43" x="477" y="242" width="28" height="27"
+			      xoffset="2" yoffset="19" xadvance="31" />
+			<data idx="44" x="493" y="178" width="12" height="18"
+			      xoffset="1" yoffset="43" xadvance="14" />
+			<data idx="45" x="115" y="191" width="52" height="55"
+			      xoffset="3" yoffset="5" xadvance="58" />
+			<data idx="46" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="47" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="48" x="467" y="294" width="40" height="40"
+			      xoffset="4" yoffset="13" xadvance="47" />
+			<data idx="49" x="155" y="359" width="42" height="46"
+			      xoffset="2" yoffset="8" xadvance="47" />
+			<data idx="50" x="258" y="454" width="38" height="37"
+			      xoffset="4" yoffset="16" xadvance="43" />
+			<data idx="51" x="49" y="411" width="46" height="42"
+			      xoffset="2" yoffset="12" xadvance="50" />
+			<data idx="52" x="134" y="456" width="37" height="39"
+			      xoffset="2" yoffset="15" xadvance="43" />
+			<data idx="53" x="201" y="359" width="42" height="46"
+			      xoffset="4" yoffset="8" xadvance="47" />
+			<data idx="54" x="175" y="454" width="38" height="38"
+			      xoffset="2" yoffset="16" xadvance="43" />
+			<data idx="55" x="-1" y="411" width="46" height="43"
+			      xoffset="2" yoffset="11" xadvance="50" />
+			<data idx="56" x="217" y="454" width="37" height="38"
+			      xoffset="4" yoffset="16" xadvance="43" />
+			<data idx="57" x="236" y="128" width="55" height="55"
+			      xoffset="2" yoffset="5" xadvance="57" />
+			<data idx="58" x="103" y="132" width="64" height="55"
+			      xoffset="2" yoffset="5" xadvance="68" />
+			<data idx="59" x="440" y="63" width="64" height="55"
+			      xoffset="2" yoffset="5" xadvance="68" />
+			<data idx="60" x="259" y="-1" width="54" height="63"
+			      xoffset="7" yoffset="1" xadvance="68" />
+			<data idx="61" x="481" y="-1" width="25" height="55"
+			      xoffset="2" yoffset="5" xadvance="28" />
+			<data idx="62" x="317" y="-1" width="54" height="63"
+			      xoffset="7" yoffset="1" xadvance="68" />
+			<data idx="63" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="64" x="432" y="441" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="65" x="411" y="126" width="54" height="55"
+			      xoffset="2" yoffset="5" xadvance="58" />
+			<data idx="66" x="353" y="126" width="54" height="55"
+			      xoffset="2" yoffset="5" xadvance="58" />
+			<data idx="67" x="44" y="458" width="41" height="41"
+			      xoffset="2" yoffset="12" xadvance="45" />
+			<data idx="68" x="448" y="185" width="41" height="53"
+			      xoffset="2" yoffset="0" xadvance="45" />
+			<data idx="69" x="425" y="242" width="48" height="48"
+			      xoffset="2" yoffset="5" xadvance="52" />
+			<data idx="70" x="156" y="409" width="53" height="41"
+			      xoffset="2" yoffset="12" xadvance="57" />
+			<data idx="71" x="51" y="307" width="48" height="48"
+			      xoffset="2" yoffset="12" xadvance="52" />
+			<data idx="72" x="-1" y="250" width="41" height="53"
+			      xoffset="2" yoffset="12" xadvance="45" />
+			<data idx="73" x="103" y="307" width="48" height="48"
+			      xoffset="2" yoffset="12" xadvance="52" />
+			<data idx="74" x="99" y="411" width="53" height="41"
+			      xoffset="2" yoffset="12" xadvance="57" />
+			<data idx="75" x="155" y="307" width="48" height="48"
+			      xoffset="2" yoffset="5" xadvance="52" />
+			<data idx="76" x="89" y="457" width="41" height="41"
+			      xoffset="2" yoffset="12" xadvance="45" />
+			<data idx="77" x="89" y="250" width="41" height="53"
+			      xoffset="2" yoffset="0" xadvance="45" />
+			<data idx="78" x="259" y="304" width="48" height="48"
+			      xoffset="2" yoffset="5" xadvance="52" />
+			<data idx="79" x="384" y="396" width="53" height="41"
+			      xoffset="2" yoffset="12" xadvance="57" />
+			<data idx="80" x="207" y="304" width="48" height="48"
+			      xoffset="2" yoffset="12" xadvance="52" />
+			<data idx="81" x="44" y="250" width="41" height="53"
+			      xoffset="2" yoffset="12" xadvance="45" />
+			<data idx="82" x="-1" y="307" width="48" height="48"
+			      xoffset="2" yoffset="12" xadvance="52" />
+			<data idx="83" x="270" y="403" width="53" height="41"
+			      xoffset="2" yoffset="12" xadvance="57" />
+			<data idx="84" x="373" y="245" width="48" height="48"
+			      xoffset="2" yoffset="5" xadvance="52" />
+			<data idx="85" x="410" y="441" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="86" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="87" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="88" x="-1" y="191" width="54" height="55"
+			      xoffset="2" yoffset="5" xadvance="58" />
+			<data idx="89" x="57" y="191" width="54" height="55"
+			      xoffset="2" yoffset="5" xadvance="58" />
+			<data idx="90" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="91" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="92" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="93" x="375" y="-1" width="49" height="60"
+			      xoffset="2" yoffset="5" xadvance="54" />
+			<data idx="94" x="52" y="68" width="49" height="60"
+			      xoffset="4" yoffset="5" xadvance="54" />
+			<data idx="95" x="247" y="356" width="61" height="43"
+			      xoffset="2" yoffset="11" xadvance="65" />
+			<data idx="96" x="442" y="349" width="61" height="43"
+			      xoffset="3" yoffset="11" xadvance="65" />
+			<data idx="97" x="469" y="122" width="35" height="52"
+			      xoffset="2" yoffset="6" xadvance="41" />
+			<data idx="98" x="309" y="245" width="60" height="48"
+			      xoffset="2" yoffset="7" xadvance="64" />
+			<data idx="99" x="162" y="68" width="61" height="58"
+			      xoffset="2" yoffset="7" xadvance="65" />
+			<data idx="100" x="384" y="185" width="60" height="53"
+			      xoffset="2" yoffset="7" xadvance="64" />
+			<data idx="101" x="171" y="130" width="61" height="55"
+			      xoffset="2" yoffset="7" xadvance="65" />
+			<data idx="102" x="105" y="68" width="53" height="59"
+			      xoffset="2" yoffset="6" xadvance="57" />
+			<data idx="103" x="295" y="128" width="54" height="55"
+			      xoffset="2" yoffset="5" xadvance="58" />
+			<data idx="104" x="298" y="66" width="67" height="56"
+			      xoffset="2" yoffset="6" xadvance="71" />
+			<data idx="105" x="171" y="189" width="67" height="54"
+			      xoffset="2" yoffset="8" xadvance="71" />
+			<data idx="106" x="227" y="68" width="67" height="56"
+			      xoffset="2" yoffset="6" xadvance="71" />
+			<data idx="107" x="242" y="187" width="67" height="54"
+			      xoffset="2" yoffset="8" xadvance="71" />
+			<data idx="108" x="-1" y="458" width="41" height="41"
+			      xoffset="9" yoffset="12" xadvance="58" />
+			<data idx="109" x="134" y="250" width="41" height="53"
+			      xoffset="9" yoffset="0" xadvance="58" />
+			<data idx="110" x="311" y="297" width="48" height="48"
+			      xoffset="9" yoffset="5" xadvance="58" />
+			<data idx="111" x="213" y="409" width="53" height="41"
+			      xoffset="9" yoffset="12" xadvance="58" />
+			<data idx="112" x="363" y="297" width="48" height="48"
+			      xoffset="9" yoffset="12" xadvance="58" />
+			<data idx="113" x="179" y="247" width="41" height="53"
+			      xoffset="9" yoffset="12" xadvance="58" />
+			<data idx="114" x="415" y="297" width="48" height="48"
+			      xoffset="2" yoffset="12" xadvance="58" />
+			<data idx="115" x="327" y="396" width="53" height="41"
+			      xoffset="-3" yoffset="12" xadvance="58" />
+			<data idx="116" x="-1" y="359" width="48" height="48"
+			      xoffset="2" yoffset="5" xadvance="58" />
+			<data idx="117" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="118" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="119" x="-1" y="68" width="49" height="60"
+			      xoffset="2" yoffset="5" xadvance="54" />
+			<data idx="120" x="428" y="-1" width="49" height="60"
+			      xoffset="4" yoffset="5" xadvance="54" />
+			<data idx="121" x="312" y="349" width="61" height="43"
+			      xoffset="2" yoffset="11" xadvance="65" />
+			<data idx="122" x="377" y="349" width="61" height="43"
+			      xoffset="3" yoffset="11" xadvance="65" />
+			<data idx="123" x="369" y="66" width="67" height="56"
+			      xoffset="2" yoffset="6" xadvance="71" />
+			<data idx="124" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="125" x="313" y="187" width="67" height="54"
+			      xoffset="2" yoffset="8" xadvance="71" />
+			<data idx="126" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="127" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="128" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="129" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="130" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="131" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="132" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="133" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="134" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="135" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="136" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="137" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="138" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="139" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="140" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="141" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="142" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="143" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="144" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="145" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="146" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="147" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="148" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="149" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="150" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="151" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="152" x="454" y="441" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="153" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="154" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="155" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="156" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="157" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="158" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="159" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="160" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="161" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="162" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="163" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="164" x="224" y="247" width="41" height="53"
+			      xoffset="2" yoffset="0" xadvance="45" />
+			<data idx="165" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="166" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="167" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="168" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="169" x="441" y="396" width="53" height="41"
+			      xoffset="2" yoffset="12" xadvance="57" />
+			<data idx="170" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="171" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="172" x="51" y="359" width="48" height="48"
+			      xoffset="2" yoffset="5" xadvance="52" />
+			<data idx="173" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="174" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="175" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="176" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="177" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="178" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="179" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="180" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="181" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="182" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="183" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="184" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="185" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="186" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="187" x="103" y="359" width="48" height="48"
+			      xoffset="2" yoffset="12" xadvance="52" />
+			<data idx="188" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="189" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="190" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="191" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="192" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="193" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="194" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="195" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="196" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="197" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="198" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="199" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="200" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="201" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="202" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="203" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="204" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="205" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="206" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="207" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="208" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="209" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="210" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="211" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="212" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="213" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="214" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="215" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="216" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="217" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="218" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="219" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="220" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="221" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="222" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="223" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="224" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="225" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="226" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="227" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="228" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="229" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="230" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="231" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="232" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="233" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="234" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="235" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="236" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="237" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="238" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="239" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="240" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="241" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="242" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="243" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="244" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="245" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="246" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="247" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="248" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="249" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="250" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="251" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="252" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="253" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="254" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="255" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+		</item>
+		<item idx="9" h1="0x00000000" h2="0x00000014" h3="0x00000015"
+		      pitch_x="0.001953125" pitch_y="0.001953125"
+		      h7="64">
+			<data idx="0" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="1" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="2" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="3" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="4" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="5" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="6" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="7" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="8" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="9" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="10" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="11" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="12" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="13" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="14" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="15" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="16" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="17" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="18" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="19" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="20" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="21" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="22" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="23" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="24" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="25" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="26" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="27" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="28" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="29" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="30" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="31" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="32" x="469" y="178" width="2" height="2"
+			      xoffset="0" yoffset="52" xadvance="14" />
+			<data idx="33" x="388" y="441" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="34" x="366" y="441" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="35" x="-1" y="-1" width="126" height="65"
+			      xoffset="5" yoffset="0" xadvance="133" />
+			<data idx="36" x="129" y="-1" width="126" height="65"
+			      xoffset="5" yoffset="0" xadvance="138" />
+			<data idx="37" x="344" y="441" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="38" x="-1" y="132" width="100" height="55"
+			      xoffset="2" yoffset="5" xadvance="104" />
+			<data idx="39" x="322" y="448" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="40" x="269" y="245" width="16" height="50"
+			      xoffset="2" yoffset="11" xadvance="17" />
+			<data idx="41" x="289" y="245" width="16" height="50"
+			      xoffset="0" yoffset="11" xadvance="17" />
+			<data idx="42" x="300" y="448" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="43" x="477" y="242" width="28" height="27"
+			      xoffset="2" yoffset="19" xadvance="31" />
+			<data idx="44" x="493" y="178" width="12" height="18"
+			      xoffset="1" yoffset="43" xadvance="14" />
+			<data idx="45" x="115" y="191" width="52" height="55"
+			      xoffset="3" yoffset="5" xadvance="58" />
+			<data idx="46" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="47" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="48" x="467" y="294" width="40" height="40"
+			      xoffset="4" yoffset="13" xadvance="47" />
+			<data idx="49" x="155" y="359" width="42" height="46"
+			      xoffset="2" yoffset="8" xadvance="47" />
+			<data idx="50" x="258" y="454" width="38" height="37"
+			      xoffset="4" yoffset="16" xadvance="43" />
+			<data idx="51" x="49" y="411" width="46" height="42"
+			      xoffset="2" yoffset="12" xadvance="50" />
+			<data idx="52" x="134" y="456" width="37" height="39"
+			      xoffset="2" yoffset="15" xadvance="43" />
+			<data idx="53" x="201" y="359" width="42" height="46"
+			      xoffset="4" yoffset="8" xadvance="47" />
+			<data idx="54" x="175" y="454" width="38" height="38"
+			      xoffset="2" yoffset="16" xadvance="43" />
+			<data idx="55" x="-1" y="411" width="46" height="43"
+			      xoffset="2" yoffset="11" xadvance="50" />
+			<data idx="56" x="217" y="454" width="37" height="38"
+			      xoffset="4" yoffset="16" xadvance="43" />
+			<data idx="57" x="236" y="128" width="55" height="55"
+			      xoffset="2" yoffset="5" xadvance="57" />
+			<data idx="58" x="103" y="132" width="64" height="55"
+			      xoffset="2" yoffset="5" xadvance="68" />
+			<data idx="59" x="440" y="63" width="64" height="55"
+			      xoffset="2" yoffset="5" xadvance="68" />
+			<data idx="60" x="259" y="-1" width="54" height="63"
+			      xoffset="7" yoffset="1" xadvance="68" />
+			<data idx="61" x="481" y="-1" width="25" height="55"
+			      xoffset="2" yoffset="5" xadvance="28" />
+			<data idx="62" x="317" y="-1" width="54" height="63"
+			      xoffset="7" yoffset="1" xadvance="68" />
+			<data idx="63" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="64" x="432" y="441" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="65" x="411" y="126" width="54" height="55"
+			      xoffset="2" yoffset="5" xadvance="58" />
+			<data idx="66" x="353" y="126" width="54" height="55"
+			      xoffset="2" yoffset="5" xadvance="58" />
+			<data idx="67" x="44" y="458" width="41" height="41"
+			      xoffset="2" yoffset="12" xadvance="45" />
+			<data idx="68" x="448" y="185" width="41" height="53"
+			      xoffset="2" yoffset="0" xadvance="45" />
+			<data idx="69" x="425" y="242" width="48" height="48"
+			      xoffset="2" yoffset="5" xadvance="52" />
+			<data idx="70" x="156" y="409" width="53" height="41"
+			      xoffset="2" yoffset="12" xadvance="57" />
+			<data idx="71" x="51" y="307" width="48" height="48"
+			      xoffset="2" yoffset="12" xadvance="52" />
+			<data idx="72" x="-1" y="250" width="41" height="53"
+			      xoffset="2" yoffset="12" xadvance="45" />
+			<data idx="73" x="103" y="307" width="48" height="48"
+			      xoffset="2" yoffset="12" xadvance="52" />
+			<data idx="74" x="99" y="411" width="53" height="41"
+			      xoffset="2" yoffset="12" xadvance="57" />
+			<data idx="75" x="155" y="307" width="48" height="48"
+			      xoffset="2" yoffset="5" xadvance="52" />
+			<data idx="76" x="89" y="457" width="41" height="41"
+			      xoffset="2" yoffset="12" xadvance="45" />
+			<data idx="77" x="89" y="250" width="41" height="53"
+			      xoffset="2" yoffset="0" xadvance="45" />
+			<data idx="78" x="259" y="304" width="48" height="48"
+			      xoffset="2" yoffset="5" xadvance="52" />
+			<data idx="79" x="384" y="396" width="53" height="41"
+			      xoffset="2" yoffset="12" xadvance="57" />
+			<data idx="80" x="207" y="304" width="48" height="48"
+			      xoffset="2" yoffset="12" xadvance="52" />
+			<data idx="81" x="44" y="250" width="41" height="53"
+			      xoffset="2" yoffset="12" xadvance="45" />
+			<data idx="82" x="-1" y="307" width="48" height="48"
+			      xoffset="2" yoffset="12" xadvance="52" />
+			<data idx="83" x="270" y="403" width="53" height="41"
+			      xoffset="2" yoffset="12" xadvance="57" />
+			<data idx="84" x="373" y="245" width="48" height="48"
+			      xoffset="2" yoffset="5" xadvance="52" />
+			<data idx="85" x="410" y="441" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="86" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="87" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="88" x="-1" y="191" width="54" height="55"
+			      xoffset="2" yoffset="5" xadvance="58" />
+			<data idx="89" x="57" y="191" width="54" height="55"
+			      xoffset="2" yoffset="5" xadvance="58" />
+			<data idx="90" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="91" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="92" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="93" x="375" y="-1" width="49" height="60"
+			      xoffset="2" yoffset="5" xadvance="54" />
+			<data idx="94" x="52" y="68" width="49" height="60"
+			      xoffset="4" yoffset="5" xadvance="54" />
+			<data idx="95" x="247" y="356" width="61" height="43"
+			      xoffset="2" yoffset="11" xadvance="65" />
+			<data idx="96" x="442" y="349" width="61" height="43"
+			      xoffset="3" yoffset="11" xadvance="65" />
+			<data idx="97" x="469" y="122" width="35" height="52"
+			      xoffset="2" yoffset="6" xadvance="41" />
+			<data idx="98" x="309" y="245" width="60" height="48"
+			      xoffset="2" yoffset="7" xadvance="64" />
+			<data idx="99" x="162" y="68" width="61" height="58"
+			      xoffset="2" yoffset="7" xadvance="65" />
+			<data idx="100" x="384" y="185" width="60" height="53"
+			      xoffset="2" yoffset="7" xadvance="64" />
+			<data idx="101" x="171" y="130" width="61" height="55"
+			      xoffset="2" yoffset="7" xadvance="65" />
+			<data idx="102" x="105" y="68" width="53" height="59"
+			      xoffset="2" yoffset="6" xadvance="57" />
+			<data idx="103" x="295" y="128" width="54" height="55"
+			      xoffset="2" yoffset="5" xadvance="58" />
+			<data idx="104" x="298" y="66" width="67" height="56"
+			      xoffset="2" yoffset="6" xadvance="71" />
+			<data idx="105" x="171" y="189" width="67" height="54"
+			      xoffset="2" yoffset="8" xadvance="71" />
+			<data idx="106" x="227" y="68" width="67" height="56"
+			      xoffset="2" yoffset="6" xadvance="71" />
+			<data idx="107" x="242" y="187" width="67" height="54"
+			      xoffset="2" yoffset="8" xadvance="71" />
+			<data idx="108" x="-1" y="458" width="41" height="41"
+			      xoffset="9" yoffset="12" xadvance="58" />
+			<data idx="109" x="134" y="250" width="41" height="53"
+			      xoffset="9" yoffset="0" xadvance="58" />
+			<data idx="110" x="311" y="297" width="48" height="48"
+			      xoffset="9" yoffset="5" xadvance="58" />
+			<data idx="111" x="213" y="409" width="53" height="41"
+			      xoffset="9" yoffset="12" xadvance="58" />
+			<data idx="112" x="363" y="297" width="48" height="48"
+			      xoffset="9" yoffset="12" xadvance="58" />
+			<data idx="113" x="179" y="247" width="41" height="53"
+			      xoffset="9" yoffset="12" xadvance="58" />
+			<data idx="114" x="415" y="297" width="48" height="48"
+			      xoffset="2" yoffset="12" xadvance="58" />
+			<data idx="115" x="327" y="396" width="53" height="41"
+			      xoffset="-3" yoffset="12" xadvance="58" />
+			<data idx="116" x="-1" y="359" width="48" height="48"
+			      xoffset="2" yoffset="5" xadvance="58" />
+			<data idx="117" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="118" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="119" x="-1" y="68" width="49" height="60"
+			      xoffset="2" yoffset="5" xadvance="54" />
+			<data idx="120" x="428" y="-1" width="49" height="60"
+			      xoffset="4" yoffset="5" xadvance="54" />
+			<data idx="121" x="312" y="349" width="61" height="43"
+			      xoffset="2" yoffset="11" xadvance="65" />
+			<data idx="122" x="377" y="349" width="61" height="43"
+			      xoffset="3" yoffset="11" xadvance="65" />
+			<data idx="123" x="369" y="66" width="67" height="56"
+			      xoffset="2" yoffset="6" xadvance="71" />
+			<data idx="124" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="125" x="313" y="187" width="67" height="54"
+			      xoffset="2" yoffset="8" xadvance="71" />
+			<data idx="126" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="127" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="128" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="129" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="130" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="131" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="132" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="133" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="134" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="135" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="136" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="137" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="138" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="139" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="140" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="141" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="142" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="143" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="144" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="145" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="146" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="147" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="148" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="149" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="150" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="151" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="152" x="454" y="441" width="18" height="19"
+			      xoffset="2" yoffset="23" xadvance="21" />
+			<data idx="153" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="154" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="155" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="156" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="157" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="158" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="159" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="160" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="161" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="162" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="163" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="164" x="224" y="247" width="41" height="53"
+			      xoffset="2" yoffset="0" xadvance="45" />
+			<data idx="165" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="166" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="167" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="168" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="169" x="441" y="396" width="53" height="41"
+			      xoffset="2" yoffset="12" xadvance="57" />
+			<data idx="170" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="171" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="172" x="51" y="359" width="48" height="48"
+			      xoffset="2" yoffset="5" xadvance="52" />
+			<data idx="173" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="174" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="175" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="176" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="177" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="178" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="179" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="180" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="181" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="182" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="183" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="184" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="185" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="186" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="187" x="103" y="359" width="48" height="48"
+			      xoffset="2" yoffset="12" xadvance="52" />
+			<data idx="188" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="189" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="190" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="191" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="192" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="193" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="194" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="195" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="196" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="197" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="198" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="199" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="200" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="201" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="202" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="203" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="204" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="205" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="206" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="207" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="208" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="209" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="210" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="211" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="212" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="213" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="214" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="215" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="216" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="217" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="218" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="219" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="220" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="221" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="222" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="223" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="224" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="225" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="226" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="227" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="228" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="229" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="230" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="231" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="232" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="233" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="234" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="235" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="236" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="237" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="238" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="239" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="240" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="241" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="242" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="243" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="244" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="245" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="246" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="247" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="248" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="249" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="250" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="251" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="252" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="253" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="254" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+			<data idx="255" x="0" y="0" width="0" height="0"
+			      xoffset="0" yoffset="0" xadvance="0" />
+		</item>
+		<item idx="10" h1="0x00000003" h2="0x00000016" h3="0x00000009"
+		      pitch_x="0.0009765625" pitch_y="0.0009765625"
+		      h7="24">
