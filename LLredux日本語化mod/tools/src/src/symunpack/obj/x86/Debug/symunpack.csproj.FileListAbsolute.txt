@@ -1,0 +1,6 @@
+C:\Users\isiis\Downloads\Metro2033jpsub_141006\Metro2033jpsub_141006\Workspace\tools\src\symunpack\bin\Debug\symunpack.exe
+C:\Users\isiis\Downloads\Metro2033jpsub_141006\Metro2033jpsub_141006\Workspace\tools\src\symunpack\bin\Debug\symunpack.pdb
+C:\Users\isiis\Downloads\Metro2033jpsub_141006\Metro2033jpsub_141006\Workspace\tools\src\symunpack\obj\x86\Debug\symunpack.csproj.CoreCompileInputs.cache
+C:\Users\isiis\Downloads\Metro2033jpsub_141006\Metro2033jpsub_141006\Workspace\tools\src\symunpack\obj\x86\Debug\symunpack.exe
+C:\Users\isiis\Downloads\Metro2033jpsub_141006\Metro2033jpsub_141006\Workspace\tools\src\symunpack\obj\x86\Debug\symunpack.pdb
+C:\Users\isiis\Downloads\Metro2033jpsub_141006\Metro2033jpsub_141006\Workspace\tools\src\symunpack\obj\x86\Debug\symunpack.csprojResolveAssemblyReference.cache
