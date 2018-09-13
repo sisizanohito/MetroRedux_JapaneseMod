@@ -1,0 +1,5 @@
+C:\Users\isiis\Downloads\Metro2033jpsub_141006\Metro2033jpsub_141006\Workspace\tools\src\sympack\bin\Debug\sympack.exe
+C:\Users\isiis\Downloads\Metro2033jpsub_141006\Metro2033jpsub_141006\Workspace\tools\src\sympack\bin\Debug\sympack.pdb
+C:\Users\isiis\Downloads\Metro2033jpsub_141006\Metro2033jpsub_141006\Workspace\tools\src\sympack\obj\x86\Debug\sympack.csproj.CoreCompileInputs.cache
+C:\Users\isiis\Downloads\Metro2033jpsub_141006\Metro2033jpsub_141006\Workspace\tools\src\sympack\obj\x86\Debug\sympack.exe
+C:\Users\isiis\Downloads\Metro2033jpsub_141006\Metro2033jpsub_141006\Workspace\tools\src\sympack\obj\x86\Debug\sympack.pdb

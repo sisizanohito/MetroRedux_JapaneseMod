@@ -1,0 +1,10 @@
+C:\Users\isiis\Downloads\Metro2033jpsub_141006\Metro2033jpsub_141006\Workspace\tools\src\lngpack\bin\Debug\lngpack.exe
+C:\Users\isiis\Downloads\Metro2033jpsub_141006\Metro2033jpsub_141006\Workspace\tools\src\lngpack\bin\Debug\lngpack.pdb
+C:\Users\isiis\Downloads\Metro2033jpsub_141006\Metro2033jpsub_141006\Workspace\tools\src\lngpack\obj\x86\Debug\lngpack.csproj.CoreCompileInputs.cache
+C:\Users\isiis\Downloads\Metro2033jpsub_141006\Metro2033jpsub_141006\Workspace\tools\src\lngpack\obj\x86\Debug\lngpack.exe
+C:\Users\isiis\Downloads\Metro2033jpsub_141006\Metro2033jpsub_141006\Workspace\tools\src\lngpack\obj\x86\Debug\lngpack.pdb
+C:\Users\isiis\Desktop\避難\LLredux日本語化mod\tools\src\src\lngpack\bin\Debug\lngpack.exe
+C:\Users\isiis\Desktop\避難\LLredux日本語化mod\tools\src\src\lngpack\bin\Debug\lngpack.pdb
+C:\Users\isiis\Desktop\避難\LLredux日本語化mod\tools\src\src\lngpack\obj\x86\Debug\lngpack.csproj.CoreCompileInputs.cache
+C:\Users\isiis\Desktop\避難\LLredux日本語化mod\tools\src\src\lngpack\obj\x86\Debug\lngpack.exe
+C:\Users\isiis\Desktop\避難\LLredux日本語化mod\tools\src\src\lngpack\obj\x86\Debug\lngpack.pdb
