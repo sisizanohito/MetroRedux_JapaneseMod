@@ -9,7 +9,7 @@ Metro:Redux 日本語化 mod<br>
 content.vfx<br>
 content99.vfs0<br>
 
-これで日本語化は終了です．<br>
+ゲームを起動し、オプションから字幕言語をENGLISH(英語)にします。これで日本語化は終了です．<br>
 
 ■ビルド方法<br>
 2033redux日本語化mod / LLredux日本語化mod の各フォルダで make.bat を実行します．<br>
@@ -17,6 +17,9 @@ content99.vfs0<br>
 ・Python 3<br>
 ・resource\unpack\config.bin : ゲームの content\config.bin<br>
 ・resource\unpack\content.vfx : ゲームの content.vfx<br>
+・tools\excel\ に xlsx-text.exe が使う以下の DLL (NuGet で入手。lib\ 配下の括弧内のフォルダのもの)<br>
+　ClosedXML 0.92.1 (net46) / DocumentFormat.OpenXml 2.7.2 (net46) / ExcelNumberFormat 1.0.3 (net20)<br>
+　FastMember.Signed 1.3.0 (net45) / System.IO.FileSystem.Primitives 4.0.1 (net46) / System.IO.Packaging 4.0.0 (net46)<br>
 release フォルダに content.vfx と content99.vfs0 ができます．<br>
 <br>
 
