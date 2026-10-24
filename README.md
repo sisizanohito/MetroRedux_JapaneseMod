@@ -1,9 +1,8 @@
 # MetroRedux_JapaneseMod
 
 Metro:Redux 日本語化 mod<br>
-■注意<br>
-本modはフルHDのみの対応になっています<br>
-他の解像度では文字がかなりぼやけてしまうため，フルHDに切り替えてプレイしてください．<br>
+■環境<br>
+本modはSteam版、EpicGames版の双方に対応しています.<br>
 <br>
 ■使い方<br>
 以下の2つのファイルをゲームフォルダのルートに上書きコピーしてください．<br>
@@ -12,14 +11,26 @@ content99.vfs0<br>
 
 これで日本語化は終了です．<br>
 
+■ビルド方法<br>
+2033redux日本語化mod / LLredux日本語化mod の各フォルダで make.bat を実行します．<br>
+事前に以下を用意してください．<br>
+・Python 3<br>
+・resource\unpack\config.bin : ゲームの content\config.bin<br>
+・resource\unpack\content.vfx : ゲームの content.vfx<br>
+release フォルダに content.vfx と content99.vfs0 ができます．<br>
+<br>
+
 ■ライセンス<br>
 mod自体はNYSL<br>
 http://www.kmonos.net/nysl/<br>
 <br>
-「bmfont64」「metro_redux_insert_newvfs」以外のtool<br>
+「bmfont64」「crunch_x64」以外のtool<br>
 二条項BSDL<br>
 <br>
-metro_redux_insert_newvfs　製作者：swuforce<br>
+crunch_x64 (crunch/crnlib) 製作者：Rich Geldreich and Tenacious Software LLC<br>
+zlib (tools\crunch_license.txt)<br>
+<br>
+tools\redux_pack.py は metro_redux_insert_newvfs (製作者：swuforce) の処理を参考に作成しました<br>
 https://drive.google.com/drive/folders/0B7LaUGSR3677MFlBRlpJT2c3Uk0<br>
 <br>
 bmfont64 製作者：angelcode<br>
