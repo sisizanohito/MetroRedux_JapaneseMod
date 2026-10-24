@@ -37,7 +37,7 @@ bmfont64 製作者：angelcode<br>
 zlib<br>
 http://www.angelcode.com/products/bmfont/<br>
 <br>
-本 Mod の作成には IPA フォントを使用し，BMFont、Metro: Last Light Redux 日本語化 modを使って加工しています。<br>
+本 Mod の作成には IPA フォントを使用し，BMFont、crunch_x64、Metro: Last Light Redux 日本語化 modを使って加工しています。<br>
 IPA フォントのライセンスについては下のリンクを参照してください。<br>
 IPA Font License V1.0<br>
 http://ipafont.ipa.go.jp/ipa_font_license_v1.html<br>
